@@ -1,3 +1,6 @@
+> **If you have an idea, what stops you from making it real?
+~352**
+
 ### Hallo!
 ---
 Im Daniel Baralt!
@@ -8,6 +11,12 @@ This is where I'll be uploading all my bugs, i mean features and hopefully make 
 Im currently working on some CLI apps for myself to manage with more ease my computer, and if it works for me, why it wouldn't be useful for others?
 And maybe some ideas will be here as well.
 
+---
+Currently learning
+* C
+* Python
 
-> **If you have an idea, what stops you from making it real?
-~352**
+Other languages I've worked with
+* PHP
+* Javascript
+* Typescript
